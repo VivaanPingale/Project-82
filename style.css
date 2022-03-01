@@ -1,0 +1,11 @@
+body{
+    background-image: url(Background_image.jpg);
+}
+#myCanvas{
+    border: 3px solid white;
+    background-color: white;
+}
+#heading{
+    font-family: Dancing Script;
+    color: white;
+}
